@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第3章线性表/02线性表链式存储_LinkList.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第3章线性表/03静态链表_StaticLinkList.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第4章栈与队列/01顺序栈_Stack.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第4章栈与队列/02两栈共享空间_DoubleStack.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第4章栈与队列/03链栈_LinkStack.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第4章栈与队列/05顺序队列_Queue.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第4章栈与队列/06链队列_LinkQueue.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第5章串/01串_String.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第5章串/02模式匹配_KMP.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第6章树/03线索二叉树_ThreadBinaryTree.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第7章图/02邻接表创建_CreateALGraph.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第7章图/03邻接矩阵深度和广度遍历DFS_BFS.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第7章图/04邻接表深度和广度遍历DFS_BFS.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第8章查找/01静态查找_Search.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第8章查找/02二叉排序树_BinarySortTree.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第8章查找/03平衡二叉树_AVLTree.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第8章查找/04B树_BTree.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第8章查找/05散列表_HashTable.c" charset="GBK" />
+    <file url="file://E:/小甲鱼_数据结构与算法（98集全）/PlayWithDataStructureSourceCode/第9章排序/01排序_Sort.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Calculator_StackImpl.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Graph_AdjacencyList.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Graph_Vertex.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List_Circle.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List_DoublyLink.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List_Linked.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List_SequentialStorage.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List_Static.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Queue_Linked.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Queue_SequentialStorage.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Search_HashTable.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Sort.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stack_DoubleShare.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stack_Linked.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/String_SequentialStorage.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ThreadBinaryTree.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Tree_Binary.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
